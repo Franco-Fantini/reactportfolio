@@ -30,9 +30,9 @@ const Hero = () => {
             className="text-center text-[30px] md:text-5xl lg:text-6xl" 
             words="From Concepts to real Experiences"
             />
-            <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
+            <h1 className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
                Hi! I&apos;m  Franco Fantini, Front End developer based in Italy
-            </p>
+            </h1>
             <a>
             <ShimmerButton 
             title="My works"
